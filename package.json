@@ -1,0 +1,11 @@
+{
+  "name": "Electron-EX1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/grzegorzmierzwa/Electron-EX1.git",
+  "author": "Grzegorz Mierzwa <mierzwagrzegorz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "5.0.6"
+  }
+}
